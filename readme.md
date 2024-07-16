@@ -1,4 +1,4 @@
-Hi 👋 My name is Vaibhav Bhople
+Hi 👋 My name is Rushikesh Lawand
 ===============================
 
 Web Developer and Designer
@@ -7,9 +7,9 @@ Web Developer and Designer
 I am a front-end web developer. Skilled in creating responsive designs, UI Design, React, copywriting, and social media marketing.
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [vaibhav.life](http://vaibhav.life)
-* ✉️  You can contact me at [vaibhavb479@gmail.com](mailto:vaibhavb479@gmail.com)
-* 🚀  I'm currently working on [Indian Food Truck](http://indianfoodtruck.online)
+* 🖥️  See my portfolio at [Rushikesh.life](http://rushikesh.life)
+* ✉️  You can contact me at [rushilawand0@gmail.com](mailto:rushilawand0@gmail.com)
+* 🚀  I'm currently working on
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Food Delivery and E-commerce
 * ⚡  Secretly I've Jarvis...Don't tell anyone!
@@ -40,7 +40,7 @@ I am a front-end web developer. Skilled in creating responsive designs, UI Desig
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vaibhavb479" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vaibhoo17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vaibhav-bhople-5ab74b1bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rushikeshlawand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vaibhoo17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vaibhav-bhople-5ab74b1bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
