@@ -1,4 +1,4 @@
-Hi 👋 My name is Rushikesh Lawand
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> My name is Rushikesh Lawand
 ===============================
 
 Web Developer and Designer
