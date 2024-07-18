@@ -27,9 +27,5 @@ I am a front-end web developer. Skilled in creating responsive designs, UI Desig
 <p align="left"> <a href="https://www.github.com/rushikeshlawand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bhavdyaaa"32" /></a> <a href="https://www.linkedin.com/in/rushikesh-lawand/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshlawand&show_icons=true&locale=en&layout=compact" alt="rushikeshlawand" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikeshlawand&show_icons=true&locale=en" alt="rushikeshlawand" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshlawand&" alt="rushikeshlawand" /></p>
 
