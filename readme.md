@@ -13,7 +13,7 @@ I am a front-end web developer. Skilled in creating responsive designs, UI Desig
 * 🧠  I'm learning React Native.
 * 🤝  I'm open to collaborating for Web Development Project.
 * ⚡  Actually I've Jarvis...Don't tell anyone!
-  <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+ 
 
 ### Skills
 
