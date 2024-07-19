@@ -6,16 +6,22 @@ Web Developer and Designer
 
 I am a front-end web developer. Skilled in creating responsive designs, UI Design, React, copywriting, and social media marketing.
 
-* 🌍  I lived in Pune
-* 🖥️  See my portfolio at [Rushikesh.life](http://rushikesh.life)
-* ✉️  You can contact me at [rushilawand0@gmail.com](mailto:rushilawand0@gmail.com)
-* 🚀  I'm currently working on My Skills.
-* 🧠  I'm learning React Native.
-* 🤝  I'm open to collaborating for Web Development Project.
-* ⚡  Actually I've Jarvis...Don't tell anyone!
- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
-
+<div style="display: flex; align-items: left;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🌍 I live in Pune</li>
+      <li>🖥️ See my portfolio at <a href="http://rushikesh.life">Rushikesh.life</a></li>
+      <li>✉️ You can contact me at <a href="mailto:rushilawand0@gmail.com">rushilawand0@gmail.com</a></li>
+      <li>🚀 I'm currently working on My Skills.</li>
+      <li>🧠 I'm learning React Native.</li>
+      <li>🤝 I'm open to collaborating for Web Development Projects.</li>
+      <li>⚡ Actually I've Jarvis... Don't tell anyone!</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+  </div>
+</div>
 ### Skills
 
 
