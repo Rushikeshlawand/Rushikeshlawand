@@ -1,6 +1,6 @@
-### Rushikesh Lawand
+## Rushikesh Lawand
 
-#### Web Developer and Designer
+### Web Developer and Designer
 
 I am a front-end web developer skilled in creating responsive designs, UI design, React, copywriting, and social media marketing.
 
@@ -55,6 +55,12 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 
 ---
 
+### Projects
+
+- [Portfolio](https://github.com/rushikeshlawand/project1) - A collection of my work showcasing my skills in front-end development, responsive design, and UI/UX design.
+
+---
+
 ### Socials
 
 <p align="left">
@@ -70,5 +76,9 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 </p>
 
 ---
+
 ### LeetCode
+
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Rushikeshlawand?ext=heatmap)
