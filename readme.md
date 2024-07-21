@@ -2,7 +2,7 @@
 
 ### Web Developer and Designer
 
-I am a front-end web developer skilled in creating responsive designs, UI design, React, copywriting, and social media marketing.
+I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design and React.
 
 ---
 
@@ -11,9 +11,6 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 - 🌍 I live in Pune
 - 🖥️ See my portfolio at [Rushikesh.life](http://rushikesh.life)
 - ✉️ You can contact me at [rushilawand0@gmail.com](mailto:rushilawand0@gmail.com)
-- 🚀 I'm currently working on improving my skills.
-- 🧠 I'm learning React Native.
-- 🤝 I'm open to collaborating on web development projects.
 - ⚡ Actually, I've got Jarvis... Don't tell anyone!
 
 ---
