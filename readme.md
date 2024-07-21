@@ -72,7 +72,3 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 ---
 ### LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Rushikeshlawand?ext=heatmap)
-### GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshlawand&" alt="rushikeshlawand" />
-</p>
