@@ -57,6 +57,10 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 
 ### Socials
 
+<p align="left">
+  <a href="https://www.github.com/rushikeshlawand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
   <a href="http://www.instagram.com/bhavdyaaa" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
@@ -66,8 +70,9 @@ I am a front-end web developer skilled in creating responsive designs, UI design
 </p>
 
 ---
-
 ### LeetCode
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Rushikeshlawand?ext=heatmap)
-
+### GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshlawand&" alt="rushikeshlawand" />
+</p>
