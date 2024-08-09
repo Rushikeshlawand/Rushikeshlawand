@@ -10,7 +10,7 @@ I am a Full Stack Java & Web developer skilled in creating responsive designs, U
 
 - 🌍 I live in Pune
 - 🖥️ See my portfolio at [Rushikesh.life](http://rushikesh.life)
-- ✉️ You can contact me at [rushilawand0@gmail.com](mailto:rushilawand0@gmail.com)
+- ✉️ You can contact me at [rushikeshlawand@yahoo.com](mailto:rushikeshlawand@yahoo.com)
 - ⚡ Actually, I've got Jarvis... Don't tell anyone!
 
 ---
