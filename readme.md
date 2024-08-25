@@ -2,7 +2,7 @@
 
 ### Web Developer and Designer
 
-I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design and React.
+I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design, and React.
 
 ---
 
@@ -42,14 +42,16 @@ I am a Full Stack Java & Web developer skilled in creating responsive designs, U
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   </a>
-
 </p>
 
 ---
 
-### Projects
+# 🚧 Currently Working On 🚧
 
-- [Portfolio](https://github.com/rushikeshlawand/project1) - A collection of my work showcasing my skills in front-end development, responsive design, and UI/UX design.
+### Projects:
+
+- **Portfolio:** A showcase of my skills and projects.
+- **Restaurant Management System:** A system to streamline restaurant operations.
 
 ---
 
@@ -70,7 +72,5 @@ I am a Full Stack Java & Web developer skilled in creating responsive designs, U
 ---
 
 ### LeetCode
-
-
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Rushikeshlawand?ext=heatmap)
