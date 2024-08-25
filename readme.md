@@ -46,21 +46,8 @@ I am a Full Stack Java & Web developer skilled in creating responsive designs, U
 
 ---
 
-# 🚧 Currently Working On 🚧
-
-### Projects:
-
-- **Portfolio:** A showcase of my skills and projects.
-- **Restaurant Management System:** A system to streamline restaurant operations.
-
----
-
 ### Socials
 
-<p align="left">
-  <a href="https://www.github.com/rushikeshlawand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
   <a href="http://www.instagram.com/bhavdyaaa" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
@@ -70,6 +57,17 @@ I am a Full Stack Java & Web developer skilled in creating responsive designs, U
 </p>
 
 ---
+
+# 🚧 Currently Working On 🚧
+
+### Projects:
+
+- **Portfolio:** A showcase of my skills and projects.
+- **Restaurant Management System:** A system to streamline restaurant operations.
+
+---
+
+
 
 ### LeetCode
 
