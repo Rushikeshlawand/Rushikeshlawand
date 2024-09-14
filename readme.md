@@ -1,6 +1,6 @@
 ## Rushikesh Lawand
 
-### Software and Web Developer
+### Software Developer
 
 I am a Full Stack Java & Web developer skilled in creating responsive designs, UI design, and React.
 
